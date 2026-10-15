@@ -5,4 +5,7 @@ public with sharing class Calculator {
     public integer add(Integer a, Integer b) {
         return a + b;
     }
+    public integer subtract(Integer a, Integer b) {
+        return a - b;
+    }
 }
